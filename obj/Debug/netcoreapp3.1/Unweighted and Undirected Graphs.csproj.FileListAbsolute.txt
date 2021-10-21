@@ -1,0 +1,4 @@
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\Unweighted and Undirected Graphs\obj\Debug\netcoreapp3.1\Unweighted and Undirected Graphs.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\Unweighted and Undirected Graphs\obj\Debug\netcoreapp3.1\Unweighted and Undirected Graphs.AssemblyInfoInputs.cache
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\Unweighted and Undirected Graphs\obj\Debug\netcoreapp3.1\Unweighted and Undirected Graphs.AssemblyInfo.cs
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\Unweighted and Undirected Graphs\obj\Debug\netcoreapp3.1\Unweighted and Undirected Graphs.csproj.CoreCompileInputs.cache

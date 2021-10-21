@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Liron.Saedi\\source\\repos\\Unweighted and Undirected Graphs\\Unweighted and Undirected Graphs.csproj",
+      "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\Unweighted and Undirected Graphs\\Unweighted and Undirected Graphs.csproj",
       "projectName": "Unweighted and Undirected Graphs",
-      "projectPath": "C:\\Users\\Liron.Saedi\\source\\repos\\Unweighted and Undirected Graphs\\Unweighted and Undirected Graphs.csproj",
+      "projectPath": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\Unweighted and Undirected Graphs\\Unweighted and Undirected Graphs.csproj",
       "packagesPath": "C:\\Users\\Liron.Saedi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Liron.Saedi\\source\\repos\\Unweighted and Undirected Graphs\\obj\\",
+      "outputPath": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\Unweighted and Undirected Graphs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
